@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mintae Kim</title>
+    <title>Posts on Mintae Kim</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Mintae Kim</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Posts on Mintae Kim</description>
+    <generator>Hugo</generator>
     <language>en-US</language>
     <managingEditor>me@example.com (John Doe)</managingEditor>
     <webMaster>me@example.com (John Doe)</webMaster>
@@ -17,9 +17,6 @@
       <pubDate>Mon, 06 Oct 2025 00:11:18 +0900</pubDate><author>me@example.com (John Doe)</author>
       <guid>http://localhost:1313/posts/second/</guid>
       <description>&lt;p&gt;Hello!&#xA;this is second.&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Hello!
-this is second.</p>
-]]></content:encoded>
     </item>
     <item>
       <title>My First Post</title>
@@ -27,9 +24,6 @@ this is second.</p>
       <pubDate>Sun, 05 Oct 2025 23:37:20 +0900</pubDate><author>me@example.com (John Doe)</author>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;p&gt;Hello World!&#xA;this is my first posting.cc&lt;/p&gt;</description>
-      <content:encoded><![CDATA[<p>Hello World!
-this is my first posting.cc</p>
-]]></content:encoded>
     </item>
   </channel>
 </rss>
