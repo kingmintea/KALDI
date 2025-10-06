@@ -3,5 +3,7 @@ title: "Posts"
 type: "home"
 ---
 
-Hello World!
-안녕하세요!
+Hi! I'm Mintae Kim.
+It's my personal blog.
+You can see my updates, and let's catch up together!
+
