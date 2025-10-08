@@ -33,7 +33,7 @@ enableRobotsTXT = true
   description = "kimmintae's website"
 
   # The path to your favicon
-  favicon = "static\favicon.ico"
+  favicon = "favicon.ico"
 
   # These images will show up when services want to generate a preview of a link
   # to your site. Ignored if `generateSocialCard = true`. For more information
